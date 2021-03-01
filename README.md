@@ -4,6 +4,7 @@ Rel estate price prediction with linear regression
 
 ______________________
 
-To do:
-- change colors
-- define homoscedasticity
+To do (verify):
+- colors
+- multicollinearity
+- homoscedasticity

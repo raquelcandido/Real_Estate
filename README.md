@@ -2,9 +2,6 @@
 Rel estate price prediction with linear regression
 - Hdbscan clustering defining outliers
 
-______________________
+_______
+Data downloaded from Kaggle "Real estate price prediction"
 
-To do (verify):
-- colors
-- multicollinearity
-- homoscedasticity

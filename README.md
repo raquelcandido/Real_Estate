@@ -1,7 +1,7 @@
 # Real estate price prediction
-Rel estate price prediction with linear regression
-- Hdbscan clustering defining outliers
+- Prediction with linear regression
+- Outliers defined through HDBSCAN clustering
+- Outlier analysis done through k-means clustering
 
-_______
+
 Data downloaded from Kaggle "Real estate price prediction"
-

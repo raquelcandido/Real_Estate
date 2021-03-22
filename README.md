@@ -5,3 +5,5 @@
 
 
 Data downloaded from Kaggle "Real estate price prediction"
+
+A simple-direct version can be found in https://www.kaggle.com/candidorm/linear-regression-real-estate-price-prediction
